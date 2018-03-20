@@ -13,4 +13,5 @@ export class AppComponent {
   
   
   var xyz;
+  var a = abc/0;
 }
